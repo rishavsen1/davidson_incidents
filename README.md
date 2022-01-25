@@ -11,3 +11,5 @@ Result 2: 4 hourly, daily, and monthly incident rates in Davidson county
 
 
 Added the Poission Regression model of predicting the incident rates
+
+The updated notebook contains the mean-error for all the grids - data being taken month-wise for a total of 50 months
