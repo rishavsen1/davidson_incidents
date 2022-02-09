@@ -18,3 +18,6 @@ The Poisson regression on kmeans clustered (clusters=3) data is added.
 Computed p-median for all the grids, based on historical incident data, using CPLEX. The number of required median points is chosen as 3. 
 The data generated is transferred to the notebook and plotted.
 Added the CPLEX code and config files
+
+
+Added notebook with p-median in python (along with CPLEX implementation) 
